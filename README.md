@@ -1,5 +1,9 @@
 # Chef SSH
 
+===
+Port of `ssh-util` from https://supermarket.chef.io/cookbooks/ssh-util so it will work on Chef v12+
+===
+
 ## Description
 
 Provides 2 LWRPs to manage system-wide and per-user `ssh_config` and `known_host` files.
